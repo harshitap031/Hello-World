@@ -11,7 +11,7 @@ Don't know how to Start? :confused:
 
 **Here is the One Stop Solution for Every Newcomer!**
 
-## 1. Begin with learning about Git and Github! How it works and learn about the various Commands. :octocat:
+## 1. Begin with learning about Git and Github! How it works and learn about the various Commands. :octocat
 
 You can take any one of the following courses/videos. One is just sufficient. If you want you take more than one too! 
 

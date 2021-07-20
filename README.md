@@ -12,12 +12,11 @@ Don't know how to Start? :confused:
 ## 1. Download MySql from here
 MySQL Installer 8.0.26(https://dev.mysql.com/downloads/file/?id=506568)
 
-### 1.1 Here are some Youtube Tutorials/Videos
-* [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :stuck_out_tongue_winking_eye:)
-* [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak)
+### 1.1 Here is one Youtube Tutorial:
+(https://www.youtube.com/watch?v=OM4aZJW_Ojs) 
 
-### 1.2 Here are some Free Courses :free:
-* [Pick any Free Udemy Course for learning Git](https://www.udemy.com/courses/search/?q=git&src=ukw&p=1&price=price-free&lang=en)
+### 1.2 Youtube video for Creating a Database
+* (https://www.youtube.com/watch?v=rEHRs11egrU&t=177s)
 * [Version Control with Git by Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
 
 ## 2. Contribute Here! Follow these steps (Better try it yourself first!)

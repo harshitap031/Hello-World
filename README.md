@@ -1,5 +1,3 @@
-![License|MIT](https://img.shields.io/badge/License-MIT-green.svg)  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="120" src="Images/join-us-on-slack.jpg">](https://join.slack.com/t/noviceparadigm/shared_invite/enQtNDIyMjczMzA1MzgyLWNlYmY2NjE2MGM3OTZkY2ZkNWI0ZDY2MjE0YTk2NDhjNzRmOTMyYjM0YjYwYmMxN2QxZjRiMTYzNmMyM2JlNTk)
 
 # Make your First Contribution here! :tada:
@@ -11,9 +9,8 @@ Don't know how to Start? :confused:
 
 **Here is the One Stop Solution for Every Newcomer!**
 
-## 1. Begin with learning about Git and Github! How it works and learn about the various Commands. :octocat:
-
-You can take any one of the following courses/videos. One is just sufficient. If you want you take more than one too! 
+## 1. Download MySql from here
+MySQL Installer 8.0.26(https://dev.mysql.com/downloads/file/?id=506568)
 
 ### 1.1 Here are some Youtube Tutorials/Videos
 * [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :stuck_out_tongue_winking_eye:)

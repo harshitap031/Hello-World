@@ -2,7 +2,7 @@
 ## 1.1. Download MySql from here
 MySQL Installer 8.0.26(https://dev.mysql.com/downloads/file/?id=506568)
 
-### 1.2 Here is one Youtube Tutorial:
+### 1.2 Here is one Youtube Tutorial for installing MySql:
 (https://www.youtube.com/watch?v=OM4aZJW_Ojs) 
 
 ### 1.3 Youtube video for Creating a Database

@@ -1,79 +1,21 @@
-[<img align="right" width="120" src="Images/join-us-on-slack.jpg">](https://join.slack.com/t/noviceparadigm/shared_invite/enQtNDIyMjczMzA1MzgyLWNlYmY2NjE2MGM3OTZkY2ZkNWI0ZDY2MjE0YTk2NDhjNzRmOTMyYjM0YjYwYmMxN2QxZjRiMTYzNmMyM2JlNTk)
 
-# Make your First Contribution here! :tada:
-
-New to Open Source?  
-New to Github?  
-Don't know where to Start?  
-Don't know how to Start? :confused:  
-
-**Here is the One Stop Solution for Every Newcomer!**
-
-## 1. Download MySql from here
+## 1.1. Download MySql from here
 MySQL Installer 8.0.26(https://dev.mysql.com/downloads/file/?id=506568)
 
-### 1.1 Here is one Youtube Tutorial:
+### 1.2 Here is one Youtube Tutorial:
 (https://www.youtube.com/watch?v=OM4aZJW_Ojs) 
 
-### 1.2 Youtube video for Creating a Database
+### 1.3 Youtube video for Creating a Database
 * (https://www.youtube.com/watch?v=rEHRs11egrU&t=177s)
-* [Version Control with Git by Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
+* Create a Database named "myhiber".
+* After creating a database,create table named as "course" and columns as per following schema,
 
-## 2. Contribute Here! Follow these steps (Better try it yourself first!)
+i.)![Screenshot (29)_LI](https://user-images.githubusercontent.com/57223574/126318511-f3df94d3-a081-4ffb-ba86-3096a0684d11.jpg)
 
-### 2.1 Fork this Repository :fork_and_knife:(commonly called as Repo)
-Fork this Repository by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
-Don't forget to `Star`it!
+ii.)![Screenshot (39)_LI](https://user-images.githubusercontent.com/57223574/126318570-bd283d8d-6202-4951-847e-bacc0b1ecc49.jpg)
 
-### 2.2 Clone this Repo Locally
 
-* Go to your GitHub account and to this forked Repo, click on the `Clone or Download` button and then click the Copy to Clipboard Icon.:clipboard:
-* Now open Command Line/Terminal.
-* Switch to the Directory where you want to Clone this Repo.
-* Run this Command
+Now add 2-3 dummy data 
+![Screenshot (41)_LI](https://user-images.githubusercontent.com/57223574/126318823-288a7b7c-50dd-40ca-bcf3-de2e1e4c8378.jpg)
 
-  ```
-  git clone https://github.com/<your-username>/Hello-World.git
-  ```
 
-### 2.3 Create a branch :twisted_rightwards_arrows:
-Change to the Repo directory on your Computer by running
-```
-cd Hello-World
-```
-Now create a branch
-```
-git checkout -b <branch-name>
-```
-A good way to name your branch is *<your-username>#<issue-number>*
-For example:
-```
-git checkout -b shreya#11
-```
-*NOTE: The issue number for this is [#11](https://github.com/Novice-Paradigm/Hello-World/blob/master/README.md)*
-
-### 2.4 Make necessary changes :white_check_mark:
-* Go to [Contributors](https://github.com/Novice-Paradigm/Hello-World/tree/master/Contributors) directory
-* Create a file:page_facing_up:.	
-* Write about Yourself (in any Language)
-  - Name
-  - School/College you are studying at or Company you are working at
-  - Your github username or link to your github profile
-  - Anything else you want to write  
-  *Check [Sample](https://github.com/Novice-Paradigm/Hello-World/blob/master/Contributors/Sample.md)*
-* Save the File.
-
-### 2.5 Commit the Changes
-* `git status`
-* `git add <file-names>`
-* `git commit -m "Contribution by <your-username>"`
-
-### 2.6 Push the Changes to Github
-* `git push origin <branch-name>`
-
-### 2.7 Submit the Pull Request
-* Go to your Hello-World Repo on GitHub
-* Click `Compare & Pull Request` button.
-* Click `Create Pull Request`
-
-After you are done with this check the [Open Issues](https://github.com/Novice-Paradigm/Hello-World/issues) in this repo or other repos of [Novice Paradigm](https://github.com/Novice-Paradigm) and continue Contributing! :blush:
